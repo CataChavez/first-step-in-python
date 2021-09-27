@@ -14,5 +14,7 @@ print(round(12 + 10 * 2)) #En este caso dará 32
 print(round((12 + 10) * 2)) #En este caso dará 44
 #orden de precedencia: raiz, multiplicación, división, suma, resta
 
-
+#Reglas
+#No se puede sumar strings con numeros.
+#Identación
 
